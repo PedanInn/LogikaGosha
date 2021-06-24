@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+}
+table{
+    text-align: center;
+}
+.l{
+background-color: #D6C9DC;
+padding: 10px;
+text-align:center ;
+}
+
+.menu{
+border-bottom: 2px solid #D6C9DC;
+margin-bottom: 10px;
+text-align: center;
+padding-bottom: 10px;
+}
+.menu a{
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    color: black;
+}
+.sale{
+ margin-bottom: 50px;
+ margin-top: 40px;
+text-align: center;
+padding-bottom: 10px;   
+}
+.sale a{
+text-decoration: none;
+    padding: 30px 20px 30px 20px;  
+     border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5); 
+    margin-left: 30px;
+    color: rgb(202, 202, 22);
+}
+
+.goods img{
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    margin-top:20px ;
+}
+.h i{
+    margin-left: 20%;
+}
+main h1{
+ border-bottom: 2px solid #D6C9DC;
+
+
+text-align: center;
+padding-bottom: 10px;   
+}
+details table{
+    margin-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+details table img{
+    margin-left: 10px;
+     border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+details{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+footer{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
